@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\MI_ketszemelyes_beadando\MI_ketszemelyes_beadando\obj\Debug\MI_ketszemelyes_beadando.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MI_ketszemelyes_beadando\MI_ketszemelyes_beadando\obj\Debug\MI_ketszemelyes_beadando.Form1.resources
+C:\Users\Asus\source\repos\MI_ketszemelyes_beadando\MI_ketszemelyes_beadando\obj\Debug\MI_ketszemelyes_beadando.Properties.Resources.resources
+C:\Users\Asus\source\repos\MI_ketszemelyes_beadando\MI_ketszemelyes_beadando\obj\Debug\MI_ketszemelyes_beadando.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\MI_ketszemelyes_beadando\MI_ketszemelyes_beadando\obj\Debug\MI_ketszemelyes_beadando.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MI_ketszemelyes_beadando\MI_ketszemelyes_beadando\bin\Debug\MI_ketszemelyes_beadando.exe.config
+C:\Users\Asus\source\repos\MI_ketszemelyes_beadando\MI_ketszemelyes_beadando\bin\Debug\MI_ketszemelyes_beadando.exe
+C:\Users\Asus\source\repos\MI_ketszemelyes_beadando\MI_ketszemelyes_beadando\bin\Debug\MI_ketszemelyes_beadando.pdb
+C:\Users\Asus\source\repos\MI_ketszemelyes_beadando\MI_ketszemelyes_beadando\obj\Debug\MI_ketszemelyes_beadando.exe
+C:\Users\Asus\source\repos\MI_ketszemelyes_beadando\MI_ketszemelyes_beadando\obj\Debug\MI_ketszemelyes_beadando.pdb
